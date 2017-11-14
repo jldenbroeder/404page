@@ -11,9 +11,7 @@ body{
     width: 70%;
     max-width: 960px;
     min-width: 600px;
-    background-color: rgb(245, 233, 197);
     border-width: 1 px;
-    border-color: rgb(69, 69, 69);
 }
 
 .col_100
@@ -42,13 +40,4 @@ min-width: 200px;
 width: 75%;
 min-width: 450px;
 /*background-color: red;*/
-}
-.txt-justify{
-  text-align: justify;
-}
-.fondblanc{
-  background-color: rgb(251, 251, 251);
-}
-.retrait {
-  text-indent:50px;
 }

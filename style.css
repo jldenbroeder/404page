@@ -1,5 +1,6 @@
 body{
-  background-image:linear-gradient(60deg, rgb(42, 39, 57), rgb(132, 137, 182));
+  margin: 0;
+  background-image:linear-gradient(60deg, rgb(11, 8, 40), rgb(131, 135, 168));
 }
 
 .conteneur
@@ -11,33 +12,27 @@ body{
     width: 70%;
     max-width: 960px;
     min-width: 600px;
-    border-width: 1 px;
 }
-
-.col_100
+h1
+{
+  font-family:verdana, sans-serif;
+  font-size: 20px;
+    text-align: center;
+  color: rgb(255, 255, 255);
+}
+h2
+{
+  font-family:verdana, sans-serif;
+  font-size: 16px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.img .ooops .return
 {
   width: 100%;
   max-width: 960px;
   min-width: 600px;
-  margin: 5px;
-  padding: 5px;
-  /*background-color: blue;*/
 }
-.col_33
-{
-width: 33.33%;
-min-width: 200px;
-/*background-color: black;*/
-}
-.col_50
-{
-  width: 50%;
-  min-width: 300px;
-  /*background-color: black;*/
-}
-.col_75
-{
-width: 75%;
-min-width: 450px;
-/*background-color: red;*/
+a{
+  color: rgb(255, 255, 255);
 }
